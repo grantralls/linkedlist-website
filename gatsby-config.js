@@ -3,7 +3,7 @@ module.exports = {
     title: "ListDataVis",
   },
   plugins: [
-    "gatsby-plugin-styled-components",
+    "@chakra-ui/gatsby-plugin",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {
